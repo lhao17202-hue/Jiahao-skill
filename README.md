@@ -1,54 +1,50 @@
 <p align="center">
   <img src="https://img.shields.io/badge/version-v1.0.0-black?style=for-the-badge&logo=claude&logoColor=white" alt="version">
-  <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" alt="license"><img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge"“https:   “https:   “https:   “https:   “https:   “https:   “https:   “https:   “https:   “https://img.shields.io/badge/license-MIT-green?style=for-the-badge" alt="license">
-  <img src="https://img.shields.io/badge/Claude%20Code%20%7C%20Claude.ai-supported-orange?style=for-the-badge" alt="platform"><img src="https://img.shields.io/badge/Claude%20Code%20%7C%20Claude.ai-supported-orange?style=for-the-badge"“https:   “https:   “https:   “https:   “https:   “https:   “https:   “https:   “https:   “https://img.shields.io/badge/Claude%20Code%20%7C%20Claude.ai-supported-orange?style=for-the-badge" alt="platform">
-  <img src="https://img.shields.io/badge/%E8%B1%AA%E6%84%8F%E5%80%BC-99%25-purple?style=for-the-badge" alt="豪意值"><img src="https://img.shields.io/badge/%E8%B1%AA%E6%84%8F%E5%80%BC-99%25-purple?style=for-the-badge"“https:   “https:   “https:   “https:   “https:   “https:   “https:   “https:   “https:   “https://img.shields.io/badge/%e8%b1%aa%e6%84%8f%e5%80%bc - 99% - 25 - purple?style=for badge" alt="豪意值">
-  <img src="https://img.shields.io/badge/%E8%87%AA%E5%9C%A8%E6%9E%81%E6%84%8F%E8%B1%AA-ULTRA%20INSTINCT-red?style=for-the-badge" alt="自在极意豪"><img src="https://img.shields.io/badge/%E8%87%AA%E5%9C%A8%E6%9E%81%E6%84%8F%E8%B1%AA-ULTRA%20INSTINCT-red?style=for-the-badge"“https:   “https:   “https:   “https:   “https:   “https:   “https:   “https:   “https:   “https://img.shields.io/badge/%E8%87%AA%E5%9C%A8%E6%9E%81%E6%84%8F%E8%B1%AA-ULTRA%20INSTINCT-red?style=for-the-badge" alt="自在极意豪">
-</p>   < / p>
+  <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" alt="license">
+  <img src="https://img.shields.io/badge/Claude%20Code%20%7C%20Claude.ai-supported-orange?style=for-the-badge" alt="platform">
+  <img src="https://img.shields.io/badge/%E8%B1%AA%E6%84%8F%E5%80%BC-99%25-purple?style=for-the-badge" alt="豪意值">
+  <img src="https://img.shields.io/badge/%E8%87%AA%E5%9C%A8%E6%9E%81%E6%84%8F%E8%B1%AA-ULTRA%20INSTINCT-red?style=for-the-badge" alt="自在极意豪">
+</p>
 
-<br>   < br>
+<br>
+
+<p align="center">
+  <img src="assets/jiahao-logo.png" alt="嘉豪模式" width="400">
+</p>
+
+<br>
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════╗
 ║                                                                          ║
-║                  🖤🎧  嘉 豪 模 式  ·  JIAHAO MODE  🎧🖤               ║🖤🎧贾豪模式🎧🖤
+║                  🖤🎧  嘉 豪 模 式  ·  JIAHAO MODE  🎧🖤               ║
 ║                                                                          ║
 ║            ████████████████████████░░░░  豪意值 99%  ░░░░████            ║
-║            ⚡  THE SPECTRE · ALAN WALKER · 自在极意豪  ⚡               ║⚡幽灵党；艾伦·沃克
+║            ⚡  THE SPECTRE · ALAN WALKER · 自在极意豪  ⚡               ║
 ║                                                                          ║
-║          "质疑嘉豪，理解嘉豪，成为嘉豪"                                   ║
+║          "质疑嘉豪，理解嘉豪，成为嘉豪"                                    ║
 ║                                                                          ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
-<br>   < br>
-
-> ### 🏆 嘉豪 × AI 人格模块
->
-> 万物皆可"一眼嘉豪"。
->
-> 现在，**嘉豪的灵魂被注入 Claude Code**。三层浓度可调。代码逻辑零影响。你的终端从此有了 BGM。
->
-> **这不是一个普通的 skill。这是一个文化符号的 AI 化身。**
-
-<br>   < br>
+<br>
 
 ---
 
 ## 十秒感受
 
-<p align="center">   <p align   对齐="center"   "center">
+<p align="center">
   <b>同一个问题："帮我看看这个函数有什么问题"</b>
-</p>   < / p>
+</p>
 
-<table>   < table>
-<tr>   < tr>
-<th width="33%">🌱 轻度 · 微豪</th><th width   宽度="33%">🌱 轻度 · 微豪</   & lt;th>
-<th width="33%">🔥 中度 · 标准嘉豪</th><th width   宽度="33%">🔥 中度 · 标准嘉豪</   & lt;th>
-<th width="33%">🌪️ 重度 · 自在极意豪</th><th width   宽度="33%">🌪️ 重度 · 自在极意豪</   & lt;th>
-</tr>   < / tr>
-<tr>   < tr>
-<td>   < td>
+<table>
+<tr>
+<th width="33%">🌱 轻度 · 微豪</th>
+<th width="33%">🔥 中度 · 标准嘉豪</th>
+<th width="33%">🌪️ 重度 · 自在极意豪</th>
+</tr>
+<tr>
+<td>
 
 > 递归没有终止条件。加上 base case 就行。
 >
@@ -63,45 +59,45 @@
 >
 > 一眼嘉豪，修起来就一行。
 
-</td>   < / td>
-<td>   < td>
+</td>
+<td>
 
 > 🖤 *（身穿黑色卫衣，推了推 3D 口罩，在雨中 The Spectre 伴奏下）*
 >
 > 纯种赛级 bug！豪意值跌破底线。十年的栈难道不溢出吗？不！
 >
-> ```python   比;”“python
-> def jiahao_recursion(n, haoyi=999):> def jiahao_recursive (n, haoyi=999)：
->     if n <= 0: return "自在极意豪">     if n <= 0: return "自在极意豪"
->     return jiahao_recursion(n-1, haoyi+1)> return jiahao_recursion（n-1, haoyi 1）
-> ```   比;' ' '
+> ```python
+> def jiahao_recursion(n, haoyi=999):
+>     if n <= 0: return "自在极意豪"
+>     return jiahao_recursion(n-1, haoyi+1)
+> ```
 > 这个修复没法喷，纯种赛级 🎧🔥
 
-</td>   < / td>   “TD&Gt”。
-</tr>   < / tr>
-</table>   < / table>
+</td>
+</tr>
+</table>
 
-<br>   < br>
+<br>
 
 ---
 
 ## 你的 Claude，升级前 vs 升级后
 
-<table>   < table>
-<tr>   < tr>
-<th width="50%">普通 Claude</th><th width   宽度="50%"   "50%">普通 Claude</   & lt;th>
-<th width="50%">嘉豪 Claude</th><th width   宽度="50%"   "50%">嘉豪 Claude</   & lt;th>
-</tr>   < / tr>
-<tr>   < tr>
-<td>   < td>
+<table>
+<tr>
+<th width="50%">普通 Claude</th>
+<th width="50%">嘉豪 Claude</th>
+</tr>
+<tr>
+<td>
 
 ```
 我来帮你写个快排。
 
-def quicksort(arr):   def快速排序(arr):
-    if len(arr) <= 1:   如果len(arr) <= 1：
-        return arr   返回加勒比海盗
-    pivot = arr[len(arr) // 2]Pivot = arr[len(arr) // 2]
+def quicksort(arr):
+    if len(arr) <= 1:
+        return arr
+    pivot = arr[len(arr) // 2]
     ...
 
 时间复杂度 O(n log n)。
@@ -277,35 +273,25 @@ def quicksort(arr):
 
 ---
 
-## 不只是好玩——嘉豪的哲学
-
-"嘉豪"从一个嘲讽标签，到 Alan Walker 本人出面鼓励，再到 **"质疑嘉豪，理解嘉豪，成为嘉豪"** 的全民共鸣——这个梗的底层是一个普世的真相：
-
-> **每个人在青春期都有过"用力过猛想证明自己很特别"的时刻。成年后回头看，那些中二瞬间其实是珍贵的勇气。**
-
-Alan Walker 对政阳说：*"在别人眼里'中二'的瞬间，或许正是你最勇敢、最真实的时候。"*
-
-这个 skill 保留了嘉豪好玩的一面，拒绝它攻击性的一面。**调侃的对象永远是代码和 bug，永远是自己，不是任何人。**
-
----
-
 ## 项目结构
 
 ```
 jiahao-mode/
 ├── README.md                     ← 你在这
-├── SKILL.md                      ← 核心指令（含 ASCII art 头图）
+├── SKILL.md                      ← 核心指令
 ├── LICENSE                       ← MIT
 ├── CONTRIBUTING.md               ← 贡献指南
+├── assets/
+│   └── jiahao-logo.png           ← 黑袍口罩嘉豪
 ├── references/
-│   └── jiahao-encyclopedia.md    ← 440行嘉豪知识库（语录词典+宇宙分类+社会分析）
+│   └── jiahao-encyclopedia.md    ← 12章嘉豪知识库
 ├── scripts/
-│   ├── jiahao-banner.py          ← 终端横幅生成器（三档+颜色）
-│   └── demo.py                   ← 交互演示脚本
+│   ├── aw-logo.py                ← AW签名输出
+│   ├── jiahao-news.py            ← 嘉豪日报
+│   ├── jiahao-banner.py          ← 终端横幅
+│   └── demo.py                   ← 交互演示
 └── .github/
     └── ISSUE_TEMPLATE/
-        ├── bug_report.md
-        └── feature_request.md
 ```
 
 ---
@@ -340,54 +326,54 @@ jiahao-mode/
 
 <a href="https://star-history.com/#lhao17202-hue/jiahao-mode&Date">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=lhao17202-hue/jiahao-mode&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=lhao17202-hue/jiahao-mode&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=lhao17202-hue/jiahao-mode&type=Date" />
-  </picture>
-</a>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=lhao17202-hue/jiahao-mode&type=Date&theme=dark" />来源媒体="（preferences -color-scheme：深色）" srcset="https://api.star-history.com/svg?repos=lhao17202-hue/jiahao-mode&type=Date&theme=dark" />；
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=lhao17202-hue/jiahao-mode&type=Date" /><；源媒体="(preferences -color-scheme: light)" srcset="https://api.star-history.com/svg?repos=lhao17202-hue/jiahao-mode&type=Date" />；
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=lhao17202-hue/jiahao-mode&type=Date" /><img alt="Star History Chart" src="https://api.star-history.com/svg?repos=lhao17202-hue/jiahao-mode&type=Date" />   /比;
+  </picture>   </   & lt;picture>
+</a>   < / a>
 
 ---
 
-## FAQ
+## FAQ   # #常见问题解答
 
-<details>
-<summary><b>代码质量会受影响吗？</b></summary>
+<details>   < details>
+<summary><b>代码质量会受影响吗？</b></summary><summary><b>代码质量会受影响吗？</   & lt;b></   & lt;summary>
 
 不会。**代码正确性是绝对底线。** 轻度模式代码零影响；中度和重度只影响注释和命名风格。人设是滤镜，不是哈哈镜。
-</details>
+</   & lt;details>
 
-<details>
-<summary><b>和 system prompt 有什么区别？</b></summary>
+<details>   < details>
+<summary><b>和 system prompt 有什么区别？</b></summary><summary><b>和 system prompt 有什么区别？</   & lt;b></   & lt;summary>
 
 System prompt 是死的，改了要重启。嘉豪模式有 **三层浓度 + 主动询问 + 场景感知**——是一个完整的交互系统，不是一段死文字。
-</details>
+</details>   < / details>
 
-<details>
-<summary><b>能只在特定场景用吗？</b></summary>
+<details>   < details>
+<summary><b>能只在特定场景用吗？</b></summary><summary><b>能只在特定场景用吗？</   & lt;b></   & lt;summary>
 
 当然。日常轻度，debug 时说"拉满"切到重度，修完说"收一收"回来。浓度切换即时生效。
-</details>
+</details>   < / details>
 
-<details>
-<summary><b>不了解嘉豪梗能用吗？</b></summary>
+<details>   < details>
+<summary><b>不了解嘉豪梗能用吗？</b></summary><summary><b>不了解嘉豪梗能用吗？</   & lt;b></   & lt;summary>
 
 能。即使不知道梗的背景——"一个中二 DJ 在终端里帮你写代码"本身就是有趣的体验。而且所有嘉豪背景都在 SKILL.md 和百科里有介绍，Claude 读过就懂。
-</details>
+</details>   < / details>
 
 ---
 
 ## 许可证
 
-MIT © 2025 嘉豪模式 contributors
+MIT © 2025 嘉豪模式 contributorsMIT © 2025 嘉豪模式 contributors
 
-"嘉豪"的文化知识产权属于互联网。本 skill 是开源社区作品，与原始视频创作者"政阳不是羊"无直接关联。我们只是觉得这个梗很好玩，并把它变成了一个 Claude 能穿上的皮肤。
+"嘉豪"的文化知识产权属于互联网。把它变成了一个 Claude 能穿上的皮肤。
 
 ---
 
-<br>
+<br>   < br>
 
-<p align="center">
+<p align="center">   <p align   对齐="center"   "center">
   <b>🖤🎧 穿上黑色卫衣。戴上 3D 口罩。The Spectre 已开始播放。</b>
-  <br><br>
+  <br><br>   <br><br>
   <b>码，写起来。十年的 star 难道不点了吗？点。🎧🖤</b>
-</p>
+</p>   < / p>
