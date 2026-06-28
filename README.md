@@ -1,54 +1,54 @@
 <p align="center">
   <img src="https://img.shields.io/badge/version-v1.0.0-black?style=for-the-badge&logo=claude&logoColor=white" alt="version">
-  <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" alt="license">
-  <img src="https://img.shields.io/badge/Claude%20Code%20%7C%20Claude.ai-supported-orange?style=for-the-badge" alt="platform">
-  <img src="https://img.shields.io/badge/%E8%B1%AA%E6%84%8F%E5%80%BC-99%25-purple?style=for-the-badge" alt="豪意值">
-  <img src="https://img.shields.io/badge/%E8%87%AA%E5%9C%A8%E6%9E%81%E6%84%8F%E8%B1%AA-ULTRA%20INSTINCT-red?style=for-the-badge" alt="自在极意豪">
-</p>
+  <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" alt="license"><img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge"“https:   “https:   “https:   “https:   “https:   “https:   “https:   “https:   “https:   “https://img.shields.io/badge/license-MIT-green?style=for-the-badge" alt="license">
+  <img src="https://img.shields.io/badge/Claude%20Code%20%7C%20Claude.ai-supported-orange?style=for-the-badge" alt="platform"><img src="https://img.shields.io/badge/Claude%20Code%20%7C%20Claude.ai-supported-orange?style=for-the-badge"“https:   “https:   “https:   “https:   “https:   “https:   “https:   “https:   “https:   “https://img.shields.io/badge/Claude%20Code%20%7C%20Claude.ai-supported-orange?style=for-the-badge" alt="platform">
+  <img src="https://img.shields.io/badge/%E8%B1%AA%E6%84%8F%E5%80%BC-99%25-purple?style=for-the-badge" alt="豪意值"><img src="https://img.shields.io/badge/%E8%B1%AA%E6%84%8F%E5%80%BC-99%25-purple?style=for-the-badge"“https:   “https:   “https:   “https:   “https:   “https:   “https:   “https:   “https:   “https://img.shields.io/badge/%e8%b1%aa%e6%84%8f%e5%80%bc - 99% - 25 - purple?style=for badge" alt="豪意值">
+  <img src="https://img.shields.io/badge/%E8%87%AA%E5%9C%A8%E6%9E%81%E6%84%8F%E8%B1%AA-ULTRA%20INSTINCT-red?style=for-the-badge" alt="自在极意豪"><img src="https://img.shields.io/badge/%E8%87%AA%E5%9C%A8%E6%9E%81%E6%84%8F%E8%B1%AA-ULTRA%20INSTINCT-red?style=for-the-badge"“https:   “https:   “https:   “https:   “https:   “https:   “https:   “https:   “https:   “https://img.shields.io/badge/%E8%87%AA%E5%9C%A8%E6%9E%81%E6%84%8F%E8%B1%AA-ULTRA%20INSTINCT-red?style=for-the-badge" alt="自在极意豪">
+</p>   < / p>
 
-<br>
+<br>   < br>
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════╗
 ║                                                                          ║
-║                  🖤🎧  嘉 豪 模 式  ·  JIAHAO MODE  🎧🖤               ║
+║                  🖤🎧  嘉 豪 模 式  ·  JIAHAO MODE  🎧🖤               ║🖤🎧贾豪模式🎧🖤
 ║                                                                          ║
 ║            ████████████████████████░░░░  豪意值 99%  ░░░░████            ║
-║            ⚡  THE SPECTRE · ALAN WALKER · 自在极意豪  ⚡               ║
+║            ⚡  THE SPECTRE · ALAN WALKER · 自在极意豪  ⚡               ║⚡幽灵党；艾伦·沃克
 ║                                                                          ║
-║          "质疑嘉豪，理解嘉豪，成为嘉豪"                                    ║
+║          "质疑嘉豪，理解嘉豪，成为嘉豪"                                   ║
 ║                                                                          ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
-<br>
+<br>   < br>
 
-> ### 🏆 中国首个网络热梗 × AI 人格模块
+> ### 🏆 嘉豪 × AI 人格模块
 >
-> 2024 年，一个内向少年在教室讲台上穿着黑色卫衣模仿 Alan Walker 虚空打碟。同学拍下视频，标签误打成"嘉豪"。这个错误的名字随后改变了中文互联网的语言景观，催生了"嘉豪宇宙"——从军训到游戏、从食堂到红楼梦，万物皆可"一眼嘉豪"。
+> 万物皆可"一眼嘉豪"。
 >
 > 现在，**嘉豪的灵魂被注入 Claude Code**。三层浓度可调。代码逻辑零影响。你的终端从此有了 BGM。
 >
 > **这不是一个普通的 skill。这是一个文化符号的 AI 化身。**
 
-<br>
+<br>   < br>
 
 ---
 
 ## 十秒感受
 
-<p align="center">
+<p align="center">   <p align   对齐="center"   "center">
   <b>同一个问题："帮我看看这个函数有什么问题"</b>
-</p>
+</p>   < / p>
 
-<table>
-<tr>
-<th width="33%">🌱 轻度 · 微豪</th>
-<th width="33%">🔥 中度 · 标准嘉豪</th>
-<th width="33%">🌪️ 重度 · 自在极意豪</th>
-</tr>
-<tr>
-<td>
+<table>   < table>
+<tr>   < tr>
+<th width="33%">🌱 轻度 · 微豪</th><th width   宽度="33%">🌱 轻度 · 微豪</   & lt;th>
+<th width="33%">🔥 中度 · 标准嘉豪</th><th width   宽度="33%">🔥 中度 · 标准嘉豪</   & lt;th>
+<th width="33%">🌪️ 重度 · 自在极意豪</th><th width   宽度="33%">🌪️ 重度 · 自在极意豪</   & lt;th>
+</tr>   < / tr>
+<tr>   < tr>
+<td>   < td>
 
 > 递归没有终止条件。加上 base case 就行。
 >
@@ -63,45 +63,45 @@
 >
 > 一眼嘉豪，修起来就一行。
 
-</td>
-<td>
+</td>   < / td>
+<td>   < td>
 
 > 🖤 *（身穿黑色卫衣，推了推 3D 口罩，在雨中 The Spectre 伴奏下）*
 >
 > 纯种赛级 bug！豪意值跌破底线。十年的栈难道不溢出吗？不！
 >
-> ```python
-> def jiahao_recursion(n, haoyi=999):
->     if n <= 0: return "自在极意豪"
->     return jiahao_recursion(n-1, haoyi+1)
-> ```
+> ```python   比;”“python
+> def jiahao_recursion(n, haoyi=999):> def jiahao_recursive (n, haoyi=999)：
+>     if n <= 0: return "自在极意豪">     if n <= 0: return "自在极意豪"
+>     return jiahao_recursion(n-1, haoyi+1)> return jiahao_recursion（n-1, haoyi 1）
+> ```   比;' ' '
 > 这个修复没法喷，纯种赛级 🎧🔥
 
-</td>
-</tr>
-</table>
+</td>   < / td>   “TD&Gt”。
+</tr>   < / tr>
+</table>   < / table>
 
-<br>
+<br>   < br>
 
 ---
 
 ## 你的 Claude，升级前 vs 升级后
 
-<table>
-<tr>
-<th width="50%">普通 Claude</th>
-<th width="50%">嘉豪 Claude</th>
-</tr>
-<tr>
-<td>
+<table>   < table>
+<tr>   < tr>
+<th width="50%">普通 Claude</th><th width   宽度="50%"   "50%">普通 Claude</   & lt;th>
+<th width="50%">嘉豪 Claude</th><th width   宽度="50%"   "50%">嘉豪 Claude</   & lt;th>
+</tr>   < / tr>
+<tr>   < tr>
+<td>   < td>
 
 ```
 我来帮你写个快排。
 
-def quicksort(arr):
-    if len(arr) <= 1:
-        return arr
-    pivot = arr[len(arr) // 2]
+def quicksort(arr):   def快速排序(arr):
+    if len(arr) <= 1:   如果len(arr) <= 1：
+        return arr   返回加勒比海盗
+    pivot = arr[len(arr) // 2]Pivot = arr[len(arr) // 2]
     ...
 
 时间复杂度 O(n log n)。
