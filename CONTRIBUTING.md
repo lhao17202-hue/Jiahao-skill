@@ -35,6 +35,6 @@
 - Python 3（仅脚本需要）
 
 ## 贡献者
-<a href="https://github.com/lhao17202-hue/jiahao-mode/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=lhao17202-hue/jiahao-mode" />
+<a href="https://github.com/lhao17202-hue/jiahao-skill/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=lhao17202-hue/jiahao-skill" />
 </a>
