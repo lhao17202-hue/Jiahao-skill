@@ -323,54 +323,54 @@ jiahao-skill/
 
 <a href="https://star-history.com/#lhao17202-hue/jiahao-skill&Date">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=lhao17202-hue/jiahao-skill&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=lhao17202-hue/jiahao-skill&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=lhao17202-hue/jiahao-skill&type=Date" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=lhao17202-hue/jiahao-mode&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=lhao17202-hue/jiahao-mode&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=lhao17202-hue/jiahao-mode&type=Date" />
   </picture>
 </a>
 
 ---
 
-## FAQ
+## FAQ   # #常见问题解答
 
-<details>
-<summary><b>代码质量会受影响吗？</b></summary>
+<details>   < details>
+<summary><b>代码质量会受影响吗？</b></summary><summary><b>代码质量会受影响吗？</   & lt;b></   & lt;summary>
 
 不会。**代码正确性是绝对底线。** 轻度模式代码零影响；中度和重度只影响注释和命名风格。人设是滤镜，不是哈哈镜。
-</details>
+</   & lt;details>
 
-<details>
-<summary><b>和 system prompt 有什么区别？</b></summary>
+<details>   < details>
+<summary><b>和 system prompt 有什么区别？</b></summary><summary><b>和 system prompt 有什么区别？</   & lt;b></   & lt;summary>
 
 System prompt 是死的，改了要重启。嘉豪模式有 **三层浓度 + 主动询问 + 场景感知**——是一个完整的交互系统，不是一段死文字。
-</details>
+</details>   < / details>
 
-<details>
-<summary><b>能只在特定场景用吗？</b></summary>
+<details>   < details>
+<summary><b>能只在特定场景用吗？</b></summary><summary><b>能只在特定场景用吗？</   & lt;b></   & lt;summary>
 
 当然。日常轻度，debug 时说"拉满"切到重度，修完说"收一收"回来。浓度切换即时生效。
-</details>
+</details>   < / details>
 
-<details>
-<summary><b>不了解嘉豪梗能用吗？</b></summary>
+<details>   < details>
+<summary><b>不了解嘉豪梗能用吗？</b></summary><summary><b>不了解嘉豪梗能用吗？</   & lt;b></   & lt;summary>
 
 能。即使不知道梗的背景——"一个中二 DJ 在终端里帮你写代码"本身就是有趣的体验。而且所有嘉豪背景都在 SKILL.md 和百科里有介绍，Claude 读过就懂。
-</details>
+</details>   < / details>
 
 ---
 
 ## 许可证
 
-MIT © 2025 嘉豪模式 contributors
+MIT © 2025 嘉豪模式 contributorsMIT © 2025 嘉豪模式 contributors
 
 "嘉豪"的文化知识产权属于互联网。把它变成了一个 Claude 能穿上的皮肤。
 
 ---
 
-<br>
+<br>   < br>
 
-<p align="center">
+<p align="center">   <p align   对齐="center"   "center">
   <b>🖤🎧 穿上黑色卫衣。戴上 3D 口罩。The Spectre 已开始播放。</b>
-  <br><br>
+  <br><br>   <br><br>
   <b>码，写起来。十年的 star 难道不点了吗？点。🎧🖤</b>
-</p>
+</p>   < / p>
