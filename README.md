@@ -62,16 +62,18 @@
 </td>
 <td>
 
-> 🖤 *（身穿黑色卫衣，推了推 3D 口罩，在雨中 The Spectre 伴奏下）*
->
-> 纯种赛级 bug！豪意值跌破底线。十年的栈难道不溢出吗？不！
->
-> ```python
-> def jiahao_recursion(n, haoyi=999):
->     if n <= 0: return "自在极意豪"
->     return jiahao_recursion(n-1, haoyi+1)
-> ```
-> 这个修复没法喷，纯种赛级 🎧🔥
+<blockquote>
+🖤 <em>（身穿黑色卫衣，推了推 3D 口罩，在雨中 The Spectre 伴奏下）</em>
+<br><br>
+纯种赛级 bug！豪意值跌破底线。十年的栈难道不溢出吗？不！
+<br><br>
+<pre><code>def jiahao_recursion(n, haoyi=999):
+    if n <= 0: return "自在极意豪"
+    return jiahao_recursion(n-1, haoyi+1)
+</code></pre>
+<br>
+这个修复没法喷，纯种赛级 🎧🔥
+</blockquote>
 
 </td>
 </tr>
@@ -91,8 +93,7 @@
 <tr>
 <td>
 
-```
-我来帮你写个快排。
+<pre><code>我来帮你写个快排。
 
 def quicksort(arr):
     if len(arr) <= 1:
@@ -101,13 +102,12 @@ def quicksort(arr):
     ...
 
 时间复杂度 O(n log n)。
-```
+</code></pre>
 
 </td>
 <td>
 
-```
-🎧 *(虚空打碟中)*
+<pre><code>🎧 *(虚空打碟中)*
 
 十年的数组难道不排了吗？排！
 
@@ -121,24 +121,22 @@ def quicksort(arr):
 O(n log n)，比 The Spectre 的
 drop 还稳。一眼标准快排，
 豪意值 75% 🔥
-```
+</code></pre>
 
 </td>
 </tr>
 <tr>
 <td>
 
-```
-这个 500 错误应该是 null
+<pre><code>这个 500 错误应该是 null
 pointer。检查一下 user 对象
 是否为空。
-```
+</code></pre>
 
 </td>
 <td>
 
-```
-🎧 *(BGM 突然卡了一下)*
+<pre><code>🎧 *(BGM 突然卡了一下)*
 
 豪意值警告！`user.address.city`
 没判空。十年的 null 难道
@@ -146,23 +144,21 @@ pointer。检查一下 user 对象
 
 `user?.address?.city` ——
 一行的事。豪意值回升至 85%。
-```
+</code></pre>
 
 </td>
 </tr>
 <tr>
 <td>
 
-```
-git commit -m "fix: null
+<pre><code>git commit -m "fix: null
 pointer in user lookup"
-```
+</code></pre>
 
 </td>
 <td>
 
-```
-🎧 *(虚空打碟中把所有改动
+<pre><code>🎧 *(虚空打碟中把所有改动
 加入暂存区)*
 
 git commit -m "fix: 十年的null
@@ -170,7 +166,7 @@ pointer难道不判了吗"
 git push
 
 推上去了，豪意值+1 🔥
-```
+</code></pre>
 
 </td>
 </tr>
@@ -186,11 +182,11 @@ git push
 
 ```bash
 # 一键安装
-claude skills install jiahao-mode
+claude skills install jiahao-skill
 
 # 或手动
-git clone https://github.com/lhao17202-hue/jiahao-mode.git
-cp -r jiahao-mode ~/.claude/skills/
+git clone https://github.com/lhao17202-hue/jiahao-skill.git
+cp -r jiahao-skill ~/.claude/skills/
 ```
 
 ### 使用
@@ -221,7 +217,7 @@ python scripts/demo.py --level 3 # 只看自在极意豪
 <details>
 <summary>📺 点击展开 demo 输出预览</summary>
 
-```
+<pre>
 ══════════════════════════════════════════════════════════════
 
 场景一：写代码
@@ -256,7 +252,8 @@ def quicksort(arr):
 十年的数组难道不排了吗？十年的O(n²)难道不优化了吗？不！
 看我用自在极意豪之力终结乱序：
 ...
-```
+</pre>
+
 </details>
 
 ---
@@ -276,7 +273,7 @@ def quicksort(arr):
 ## 项目结构
 
 ```
-jiahao-mode/
+jiahao-skill/
 ├── README.md                     ← 你在这
 ├── SKILL.md                      ← 核心指令
 ├── LICENSE                       ← MIT
@@ -301,7 +298,7 @@ jiahao-mode/
 ### 🏅 在你的 README 里挂豪意值徽章
 
 ```markdown
-[![豪意值](https://img.shields.io/badge/%E8%B1%AA%E6%84%8F%E5%80%BC-XX%25-purple)](https://github.com/lhao17202-hue/jiahao-mode)
+[![豪意值](https://img.shields.io/badge/%E8%B1%AA%E6%84%8F%E5%80%BC-XX%25-purple)](https://github.com/lhao17202-hue/jiahao-skill)
 ```
 
 把 `XX` 换成你的豪意值分数。**让全世界知道你的代码有多"豪"。**
@@ -310,12 +307,12 @@ jiahao-mode/
 
 十年的 PR 难道不提了吗？提！
 
-- 🐛 [报 Bug](https://github.com/lhao17202-hue/jiahao-mode/issues/new?template=bug_report.md)
-- 💡 [提建议](https://github.com/lhao17202-hue/jiahao-mode/issues/new?template=feature_request.md)
+- 🐛 [报 Bug](https://github.com/lhao17202-hue/jiahao-skill/issues/new?template=bug_report.md)
+- 💡 [提建议](https://github.com/lhao17202-hue/jiahao-skill/issues/new?template=feature_request.md)
 - 📖 [贡献新语录/新分支到百科](CONTRIBUTING.md)
 
-<a href="https://github.com/lhao17202-hue/jiahao-mode/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=lhao17202-hue/jiahao-mode" />
+<a href="https://github.com/lhao17202-hue/jiahao-skill/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=lhao17202-hue/jiahao-skill" />
 </a>
 
 ---
@@ -324,11 +321,11 @@ jiahao-mode/
 
 如果嘉豪让你的终端多了点乐子，**点个 star**——豪意值 +1，虚空打碟更带劲。
 
-<a href="https://star-history.com/#lhao17202-hue/jiahao-mode&Date">
+<a href="https://star-history.com/#lhao17202-hue/jiahao-skill&Date">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=lhao17202-hue/jiahao-mode&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=lhao17202-hue/jiahao-mode&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=lhao17202-hue/jiahao-mode&type=Date" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=lhao17202-hue/jiahao-skill&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=lhao17202-hue/jiahao-skill&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=lhao17202-hue/jiahao-skill&type=Date" />
   </picture>
 </a>
 
