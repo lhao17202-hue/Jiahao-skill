@@ -263,8 +263,8 @@ def show_outro():
 ║                                                                  ║
 ║        🖤  演 示 结 束  |  DEMO COMPLETE  🖤                     ║
 ║                                                                  ║
-║        安装：claude skills install jiahao-mode                     ║
-║        GitHub: github.com/lhao17202-hue/jiahao-mode                ║
+║        安装：claude skills install jiahao-skill                     ║
+║        GitHub: github.com/lhao17202-hue/jiahao-skill                ║
 ║                                                                  ║
 ║        ⭐ Star = 豪意值 +1                                       ║
 ║                                                                  ║
